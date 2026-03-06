@@ -1,0 +1,1 @@
+// generic.page.ts content goes here, example: export class GenericPage { }

@@ -1,0 +1,1 @@
+// smokeTests.config.ts content goes here, example: export const config = { };

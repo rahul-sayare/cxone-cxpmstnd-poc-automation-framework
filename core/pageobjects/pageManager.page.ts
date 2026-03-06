@@ -1,0 +1,1 @@
+// pageManager.page.ts content goes here, example: export class PageManager { }
